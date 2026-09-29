@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PersonaliAI/.github/main/profile/assets/brand-header.svg" alt="PersonaliAI" width="800" />
-
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/PersonaliAI/chatty/main/backend/assets/chatty-icon.png" alt="Chatty" width="88" /> <img src="https://raw.githubusercontent.com/PersonaliAI/chatty/main/backend/assets/readme-icon.png" alt="PersonaliAI" width="88" />
 
 # PersonaliAI
 
