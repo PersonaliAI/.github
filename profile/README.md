@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PersonaliAI/chatty/main/backend/assets/chatty-icon.png" alt="Chatty" width="88" /> <img src="https://raw.githubusercontent.com/PersonaliAI/chatty/main/backend/assets/readme-icon.png" alt="PersonaliAI" width="88" />
+<img src="https://raw.githubusercontent.com/PersonaliAI/.github/main/profile/assets/personali-logo-white-bg.png" alt="PersonaliAI" width="360" />
 
-# PersonaliAI
+<br/>
+<br/>
 
-**Autonomous AI platforms, real-time voice agents, and developer-first SDKs.**
+### AI tools built for your life & work.
+
+*Open-source conversational platforms, real-time voice agents, and developer-first SDKs.*
+
+<br/>
 
 [Website](https://chatty.personaliai.com) &nbsp;·&nbsp; [Documentation](https://docs.chatty.personaliai.com) &nbsp;·&nbsp; [Chatty Cloud](https://chatty.personaliai.com) &nbsp;·&nbsp; [Docker Hub](https://hub.docker.com/u/personaliai)
 
